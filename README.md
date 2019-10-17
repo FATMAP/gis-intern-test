@@ -27,4 +27,6 @@ __Bonus:__ Find out what is the default projection for the Sentinel imagery data
 command to reproject the image to EPSG:3857, involving some sort of compression and cubic resampling.
 
 
+For both tasks, document all your steps as much as you can so we can understand how you have approached the tasks.
+
 Commit the files for both tasks to a public Git repository or send them back to us via email.
